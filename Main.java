@@ -4,8 +4,7 @@ import java.util.Scanner;
 import org.w3c.dom.traversal.TreeWalker;
 
 public class Main {
-	//                0 1  2  3  4  5  6   7  8  9  10 11 12  13  14 15 16  17  18 19
-//	static int[] a = {3,46,4,325,45,535,8,545,46,2,564,3, 665,6,  37,32,323,757,69,6};
+
 	static final int N = 10000,Q = 10000;
 	static int[] a = new int[N];
 	
